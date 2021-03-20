@@ -31,7 +31,7 @@ incremental==17.5.0
 isort==4.3.20
 javascripthon==0.10
 jieba==0.39
-Jinja2==2.10.1
+Jinja2==2.11.3
 joblib==0.13.2
 jsonpath==0.81
 jupyter-echarts-pypkg==0.1.2
