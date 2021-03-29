@@ -71,7 +71,7 @@ pyecharts-snapshot==0.2.0
 pyee==6.0.0
 pygal==2.4.0
 pygame==1.9.4
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyInstaller==3.4
 pylint==2.3.1
