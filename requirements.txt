@@ -45,7 +45,7 @@ kivy.deps.sdl2==0.1.18
 kiwisolver==1.0.1
 lazy-object-proxy==1.4.1
 lml==0.0.2
-lxml==4.3.2
+lxml==4.6.3
 macholib==1.11
 macropy3==1.1.0b2
 MarkupSafe==1.1.1
