@@ -19,7 +19,7 @@ cryptography==2.7
 cssselect==1.0.3
 cycler==0.10.0
 decorator==4.4.0
-Django==2.1.7
+Django==2.2.24
 docutils==0.14
 dukpy==0.2.2
 future==0.17.1
