@@ -53,7 +53,7 @@ matplotlib==3.0.2
 mccabe==0.6.1
 networkx==2.3
 numpy==1.15.4+mkl
-opencv-python==4.0.1
+opencv-python==4.1.1.26
 parsel==1.5.1
 pefile==2018.8.8
 Pillow==5.4.1
